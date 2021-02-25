@@ -1,1 +1,1 @@
-# learning-spring-cloud
+# curso-spring-cloud-loja
